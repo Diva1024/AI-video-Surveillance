@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    
+}
+.abc{
+    font-size: 25px;
+    width:100%;
+    margin:0px;
+
+}
+#xyz,#status{
+    font-size:  25px;
+}
+.copyWrightFooter{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+    background-color: firebrick;
+    font-size: 20px;
+    color:fuchsia
+}
+canvas{
+    border:2px solid whitesmoke;
+    border-radius: 10px;
+    margin-top:120px;
+    box-shadow: 5px 5px 5px white;
+
+}
